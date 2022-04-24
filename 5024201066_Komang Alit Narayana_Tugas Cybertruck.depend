@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1618458783 source:c:\coding\my cybertruck\main.cpp
+	<iostream>
+	<windows.h>
+	<graphics.h>
+
